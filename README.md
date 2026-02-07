@@ -29,7 +29,7 @@ El proyecto permite la gestión completa (CRUD) de especies del universo Star Wa
 ## 📸 Capturas de Pantalla
 | Listado | Menú Drawer | Alta Especie |          Notificación          |
 |:-------:|:-----------:|:------------:|:------------------------------:|
-| ![Listado](screenshots/lista.JPEG) | ![Drawer](screenshots/drawer.JPEG) | ![Alta](screenshots/alta.JPEG) | ![Noti](screenshots/noti.JPEG) |
+| ![Listado](../screenshots/lista.JPEG) | ![Drawer](../screenshots/drawer.JPEG) | ![Alta](../screenshots/alta.JPEG) | ![Noti](../screenshots/noti.JPEG) |
 
 ## 🔧 Guía de Instalación
 1.  **Clonar el repositorio:**
