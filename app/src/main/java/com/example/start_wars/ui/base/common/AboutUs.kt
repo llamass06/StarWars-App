@@ -215,7 +215,7 @@ fun SocialRow(icon: ImageVector, text: String) {
     }
 }
 
-@Preview(showBackground = true)
+@Preview(showBackground = true, showSystemUi = true, fontScale = 1.3f, backgroundColor = 0xFFD3)
 @Composable
 fun AboutUsPreview(){
     AboutUsScreen()
