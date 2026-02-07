@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">start_wars</string>
+    <string name="app_name">Star Wars Wiki</string>
     <string name="creacion_pelicula">Dar de alta una pelicula</string>
     <string name="subtexto_creacion_pelicula">Aporta los datos necesarios de la pelicula</string>
     <string name="star_war_desc">Imagen de star wars</string>
