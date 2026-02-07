@@ -45,7 +45,7 @@ El proyecto permite la gestión completa (CRUD) de especies del universo Star Wa
     * Pulsa `Run` (Shift+F10).
 
 ## 👤 Autor
-**[TU NOMBRE Y APELLIDOS]**
+**[Álvaro Llamas Martín]**
 * **Asignatura:** Desarrollo de Interfaces
 * **Tarea:** 4 - Aplicación Multifuncional
 
